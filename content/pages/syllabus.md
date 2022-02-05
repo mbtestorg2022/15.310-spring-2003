@@ -27,14 +27,75 @@ Wadsworth. _Methods in Social Relations._ 7th Edition. Thomson Learning.
 
 ### Grading
 
-| Components | Percentages |
-| --- | --- |
-| Group Project (decomposed as 10% for proposal, 25% for final report, and 5% for final presentation) | 40% |
-| Midterm Quiz | 20% |
-| Final Quiz | 20% |
-| Individual Writing Assignment (decomposed as 5% for content and 5% for writing quality) | 10% |
-| Homework and Participation in Recitations | 10% |
-| Participation in Lecture Discussions |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Components
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Project (decomposed as 10% for proposal, 25% for final report, and 5% for final presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Writing Assignment (decomposed as 5% for content and 5% for writing quality)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and Participation in Recitations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Lecture Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -49,12 +110,81 @@ Leavitt, Harold J., Louis R. Pondy, and David M. Boje (Ed.). _Readings in Manage
 
 ### Grading
 
-| Components | Percentages |
-| --- | --- |
-| Midterm Paper (5-7 Pages) - Any Topic of Choice Related to Course (please pass topic by me before writing paper) or Answer 3-5 Questions from Different Chapters in Robbins: Questions for Critical Thinking | 15% |
-| Class Participation | 20% |
-| 1 Two Page Write Up on Any of the Cases (due before recitation) | 10% |
-| Individual 10 min Presentation About a Topic of Interest (please pass topic by me before preparing presentation) | 10% |
-| 1 Key Question/Issue for Every Reading With a Paragraph of Your Thoughts On It | 10% |
-| Midterm Quiz | 15% |
-| Final Quiz | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Components
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Paper (5-7 Pages) - Any Topic of Choice Related to Course (please pass topic by me before writing paper) or Answer 3-5 Questions from Different Chapters in Robbins: Questions for Critical Thinking
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 Two Page Write Up on Any of the Cases (due before recitation)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual 10 min Presentation About a Topic of Interest (please pass topic by me before preparing presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 Key Question/Issue for Every Reading With a Paragraph of Your Thoughts On It
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
